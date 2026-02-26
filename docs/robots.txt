@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bit-defenderhelps.readthedocs.io/en/latest/
